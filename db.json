@@ -1,6 +1,7 @@
 {
-  "user": 1,
-  "task": [
+  "user": [
+    "id": 1,
+    "task": [
     {
       "id" : 1,
       "task": "Task 1",
@@ -16,5 +17,6 @@
       "task": "Task 3",
       "isDone": true
     }
+  ]
   ]
 }
